@@ -1,5 +1,5 @@
 # Research-Project-One
-A theory based exploration of polygon circle properties.
+A theory based exploration of polygon-circle properties.
 End result an approximation for polygon-circle accuracy.
 End result also applicable as a dampened converging harmonic function.
 
