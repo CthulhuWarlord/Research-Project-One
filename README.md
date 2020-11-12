@@ -56,7 +56,7 @@ Which after a great deal of algebra simplifies to <br/>
 V = ((2 + sqrt(2)) / (2)) (sqrt(1-cos(2PI/N))<br/>
 and so we have V(N)<br/>
 So now if you tell me how many polygons you want to use to approximate a circle,<br/>
-I can tell you how good that approximation is with a converging dampened harmonic equation.<br/>
+I can tell you how good that approximation is with a converging dampened harmonic equation with true computational costs being a cosine and a squareroot.<br/>
 The equation even works with decimals because the domain of (N) is all real numbers(with minor exceptions).<br/>
 The actual results of V can be normalized to 1, or whatever, and using some inversion converted to a scale of 0 to 1 where 1 is best fit.<br/>
 Or 0 to 10. Or however the scale would be wanted, it really doesnt matter as long as it starts at 0 and goes to some max.<br/>
