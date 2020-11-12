@@ -53,7 +53,7 @@ sin(PI/N) = E/2R<br/>
 E = 2Rsin(PI/N)
 M = sqrt((4-(2)(sin(PI/N)^2)))/2<br/>
 Which after a great deal of algebra simplifies to <br/>
-V = ((2 + sqrt(2)) / (2)) (sqrt(1-cos(2PI/N))<br/>
+V = ( (2 + sqrt(2)) / (2) ) ( sqrt(1-cos(2PI/N)) )<br/>
 and so we have V(N)<br/>
 So now if you tell me how many polygons you want to use to approximate a circle,<br/>
 I can tell you how good that approximation is with a converging dampened harmonic equation with true computational costs being a cosine and a squareroot.<br/>
