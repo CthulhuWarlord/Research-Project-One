@@ -62,3 +62,5 @@ The actual results of V can be normalized to 1, or whatever, and using some inve
 Or 0 to 10. Or however the scale would be wanted, it really doesnt matter as long as it starts at 0 and goes to some max.<br/>
 
 Yes I am aware that 0 will have a divide by 0 error. No I do not care because no one will ever use 0 polygons as an approximation. The only point of 0 is a baseline. I am anticipating polygon counts of millions, which will push the V value approximately to 0, using an inversion that can make it be the max value desired for common practice evaluation, maybe 0 to 10 or 0 to 100, you get the idea. If someone really wanted to, they could take this equation and gate it with a program that checks for invalid inputs.<br/>
+You could then dial back using this equation until the millions became thousands while maintaining your desired error% without using excessive polygons.<br/>
+Very cool<br/>
