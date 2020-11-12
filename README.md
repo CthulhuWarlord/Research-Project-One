@@ -20,7 +20,7 @@ The angle between the Radii is not fixed, a variable.<br/>
 There is a (M + V) third Radii halfway between the two.<br/>
 There is a (E) chord between the original two Radii.<br/>
 The (E) chord and the (M + V)third Radii intersect in the form of a cross.<br/>
-The chord divides the third Radii into two segments, (V) the chord to circle edege, and (M) the circle center to chord.<br/>
+The chord divides the third Radii into two segments, (V) the chord to circle edge, and (M) the circle center to chord.<br/>
 What we have now is a polygon of sides R, angle (theta) and in terms of line segment (V)<br/>
 
 R = 1<br/>
