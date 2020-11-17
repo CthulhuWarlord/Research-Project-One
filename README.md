@@ -65,4 +65,7 @@ Yes I am aware that 0 will have a divide by 0 error. No I do not care because no
 You could then dial back using this equation until the millions became thousands while maintaining your desired error% without using excessive polygons.<br/>
 Very cool<br/>
 
-Last planned edit is a link to a PDF of the hand-drawn diagrams and simplification algebra.
+Next planned activity is a creation of a python program for usage.
+Also planned is conversion into protext format with clear derivation breakdown.
+Being explored is: geogebra, python, matlab, and other graphic producing methods for display of principles.
+
